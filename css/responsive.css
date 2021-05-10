@@ -1,0 +1,50 @@
+@media (max-width: 850px){
+    .burger-bar {
+        display: block;
+        
+        
+    }
+    .div-image {
+        background-size: auto;
+    }
+    .nav-ul {
+        margin-top: 25px;
+        flex-direction: column;
+        align-items: center;
+       
+    }
+    .nav-li {
+        margin-bottom: 15px;
+    }
+    .h2-1 {
+        align-items: center;
+        flex-direction: column;
+        
+    }
+    .section-3 {
+        justify-content: center;
+    }
+    .divide {
+        flex-direction: column;
+        align-items: center;
+    }
+   
+    .block-3 {
+        justify-content: center;
+    }
+}
+@media (max-width: 940px){
+    .form-container {
+        margin-top: 25px;
+        margin-right: 15px;
+    }
+}
+.map {
+    height: auto;
+    width: 50%;
+}
+.c-container {
+    flex-direction: column;
+        margin-right: 50px;
+       
+}
